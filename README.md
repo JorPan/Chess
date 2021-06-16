@@ -1,6 +1,6 @@
 # Chess, you say?! 
 
-This app utilizes chessboardjsx and chess.js to create a very mediocre chess opponent. 
+This app utilizes chessboardjsx and chess.js to create a very sub-par chess opponent. 
 
 Clone this repo, open it in your code editor, run "npm i" to install dependencies, and "npm start" to play. 
 
